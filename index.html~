@@ -222,7 +222,7 @@ James Madison University<br>
 
 <a href="https://www.jmu.edu/cob/economics/people/index.shtml" target="_blank" class="fa fa-university" style="font-size:28px"></a>
 <br> <br> <br>
-<input class="button-2" role="button" value="my dogs" onclick="showImg(1)" >
+<input class="button-2" role="button" value="Aran. Tari." onclick="showImg(1)" >
 <br>
 <br>
  <img id="img1" src="" style="width:46%" >
