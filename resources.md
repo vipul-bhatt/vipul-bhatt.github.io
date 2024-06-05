@@ -1,15 +1,48 @@
 ---
 layout: page
-title: Economic Data Resources
+title:
 use-site-title: true
 ---
 
+<style>
 
+div.content { width: 940px }
 
-<div>
+.show-text {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  width: 940px;
+}
 
+.show-text .hidden-text {
+  visibility: hidden;
+  width: 800px;
+  background-color: #fff;
+  color: black;
+  font-size: 11pt;
+  text-align: left;
+  box-sizing: border-box;
+  border: solid;
+  border-radius: 6px;
+  padding: 10px;
+  
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 70%;
+  left:10%;
+  margin-left: -60px;
+}
 
-<h3> US </h3>
+.show-text:hover .hidden-text {
+  visibility: visible;
+}
+}
+
+</style>
+
+ <h2>US</h2>
 
 <ul>
 
@@ -22,10 +55,8 @@ use-site-title: true
  <li> <a href="https://www.bls.gov/data/" target="_blank"> Bureau of Labor Statistics</a> </li>
 
 </ul>
-
-
-
-<h3> INDIA </h3>
+ 
+<h2> India </h2>
 
 <ul>
 
@@ -43,8 +74,7 @@ use-site-title: true
 
 </ul>
 
-
-<h3> INTERNATIONAL </h3>
+<h2> International </h2>
 
 <ul>
 
@@ -63,7 +93,3 @@ use-site-title: true
 
 
 </ul>
-
-
-
-</div>

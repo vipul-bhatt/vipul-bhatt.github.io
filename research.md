@@ -98,14 +98,14 @@ may capture different behavioral phenomena. </span>
 
   <p> Estimating Excess Sensitivity and Habit Persistence in Consumption Using Greenbook Forecast as an Instrument (N. Kundan Kishor and Hardik Marfatia)-Oxford Bulletin of Economics and Statistics, April 2020, Volume 82, Issue 2, pp. 257-284.</p>
 
-	  <p> Re-thinking Debt Burden: Going with the Flow (with Andre Neveu)- Eastern Economic Journal. April 2019, Volume 45, Issue 2, pp. 179-203 .</p>
+<p> Re-thinking Debt Burden: Going with the Flow (with Andre Neveu)- Eastern Economic Journal. April 2019, Volume 45, Issue 2, pp. 179-203 .</p>
 
-	  <p> Spatial Income Inequality in India, 1993-2011: A District Level Decomposition (with Mehtabul Azam)-Social Indicators Research, July 2018, Volume 138 (2), pp. 505-522.	</p>
+<p> Spatial Income Inequality in India, 1993-2011: A District Level Decomposition (with Mehtabul Azam)-Social Indicators Research, July 2018, Volume 138 (2), pp. 505-522.	</p>
 	  
-	  <p> Cohort Differences in Joint Retirement: Evidence from the Health and Retirement Study-Journal of Labor Research, December 2017, Volume 38, Issue 4, pp. 475-495. </p>
+<p> Cohort Differences in Joint Retirement: Evidence from the Health and Retirement Study-Journal of Labor Research, December 2017, Volume 38, Issue 4, pp. 475-495. </p>
 
 
-  <p> The Impact of EMU on Bond Yield Convergence: Evidence from a Time-Varying Dynamic Factor Model (with N. Kundan Kishor and Jun Ma)- Journal of Economic Dynamics and Control, Volume 82, September 2017, pp. 206-222.</p>
+<p> The Impact of EMU on Bond Yield Convergence: Evidence from a Time-Varying Dynamic Factor Model (with N. Kundan Kishor and Jun Ma)- Journal of Economic Dynamics and Control, Volume 82, September 2017, pp. 206-222.</p>
 
 <p> The Dynamic Behavior of Implicit Inflation Target in Inflation Targeting Lite Countries (with Amr Hosny and N. Kundan Kishor)- Economic Record, Volume 93, Issue 300, March 2017, pp. 67-88. </p>
 
