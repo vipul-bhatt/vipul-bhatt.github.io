@@ -6,7 +6,15 @@ use-site-title: true
 
 <style>
 
-div.content { width: 940px }
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+/* Styles */
+
+.content {width :300px;  !important;}
+
+}
 
 .show-text {
   position: relative;

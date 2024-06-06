@@ -15,7 +15,7 @@ and (min-device-width : 320px)
 and (max-device-width : 480px) {
 /* Styles */
 
-.content {width :300px;  !important;}
+.content {width :200px;  !important;}
 
 }
 
