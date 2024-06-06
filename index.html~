@@ -18,7 +18,13 @@ use-site-title: false
 }
 
 
-#div.content { width: 940px }
+    @media(min-width:768px){
+        div {
+            float:left;
+            width:30%;
+    margin-right:5px;
+        }
+    }
 
 
 /* Create two unequal columns that floats next to each other */
@@ -210,7 +216,7 @@ function showImg (imgIndex) {
   <br>
 
 
- <img  class="circular-square" src="assets/img/img1.png" style="width:100%"> 
+ <img  class="circular-square" src="assets/img/img1.png" > 
 
  <div class="caption">
  <p style="text-align: center;"><b><font size="+3">Vipul Bhatt </font></b> <br>Professor of Economics<br>
