@@ -18,7 +18,7 @@ use-site-title: false
 }
 
 
-.content {width: width: 100%; }
+.content {width: 940px }
 
 
 /* Smartphones (portrait and landscape) ----------- */
