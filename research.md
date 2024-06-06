@@ -139,7 +139,7 @@ and (max-device-width : 480px) {
   z-index: 1;
   top: 70%;
   left:10%;
-  margin-left: -60px;
+  margin-left: -50px;
 }
 
 
@@ -150,7 +150,7 @@ and (min-device-width : 320px)
 and (max-device-width : 480px) {
 /* Styles */
 
-.show-text .hidden-text {width :250px;  !important;}
+.show-text .hidden-text {width :300px;  !important;}
 
 }
 
