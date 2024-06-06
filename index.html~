@@ -53,9 +53,10 @@ div.content { width: 940px }
   }
 }
 
+@media only screen and (max-width: 800px){
 .circular--square { border-radius: 50%; }
 
-
+}
   container */
 .responsive-two-column-grid {
     display:block;
@@ -209,13 +210,7 @@ function showImg (imgIndex) {
   <br>
 
 
- <img  class="circular-square"
-    src="/assets/img/img1.jpg"
-    srcset="/assets/img/img1-w256.jpg 256w, /assets/img/img1-w512.jpg 512w, /assets/img/img1.jpg 826w"
-    sizes="(max-width: 575px) 100vw, (max-width: 767px) 50vw, (max-width: 991px) 34vw, (min-width: 992px) 25vw"
-    width="100%"
-    height="auto"
-> 
+ <img  class="circular--square" src="/assets/img/img1-w256.jpg"> 
 
  <div class="caption">
  <p style="text-align: center;"><b><font size="+3">Vipul Bhatt </font></b> <br>Professor of Economics<br>
