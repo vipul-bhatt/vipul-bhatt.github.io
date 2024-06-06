@@ -207,7 +207,15 @@ function showImg (imgIndex) {
  <div class="row">
   <div class="column left">
   <br>
- <img class="circular--square" src="/assets/img/img1.jpg" style="width:100%" />
+
+
+ <img  class="circular--square"
+    src="img1.jpg"
+    srcset="img1-w256.jpg 256w, img1-w512.jpg 512w, img1.jpg 826w"
+    sizes="(max-width: 575px) 100vw, (max-width: 767px) 50vw, (max-width: 991px) 34vw, (min-width: 992px) 25vw"
+    width="826"
+    height="779"
+> 
 
  <div class="caption">
  <p style="text-align: center;"><b><font size="+3">Vipul Bhatt </font></b> <br>Professor of Economics<br>

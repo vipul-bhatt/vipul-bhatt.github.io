@@ -290,9 +290,14 @@ exclude:
   - screenshot.png
   - docs/
 
+responsive:
+  widths: [400,500,700,900]
+  quality: 30
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-responsive-magick
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
