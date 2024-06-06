@@ -1,11 +1,8 @@
-﻿---
+---
 layout: page
 title:
 use-site-title: false
 ---
-
-<head> <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
-</head>
 
 <style>
 * {
@@ -21,29 +18,7 @@ use-site-title: false
 }
 
 
-div.content {
-  width: 940px;
-
-}
-
-
-# Desktops, big landscape tablets and laptops(Large, Extra large)
-@media screen and (min-width: 1024px){
-/*Style*/
-}
-
-# Tablet(medium)
-@media screen and (min-width : 768px) and (max-width : 1023px){
-/*Style*/
-}
-
-# Smartphones (portrait and landscape)(small)
-@media screen and (min-width : 0px) and (max-width : 767px){
-/*Style*/
-}
-
-
-
+div.content { width: 940px }
 
 
 /* Create two unequal columns that floats next to each other */
@@ -78,8 +53,7 @@ div.content {
   }
 }
 
-
-.circular-square { border-radius: 50%; }
+.circular--square { border-radius: 50%; }
 
 
   container */
@@ -233,9 +207,7 @@ function showImg (imgIndex) {
  <div class="row">
   <div class="column left">
   <br>
-
-
- <img  class="circular-square" src="assets/img/img1.png" > 
+ <img class="circular--square" src="/assets/img/img1.png" />
 
  <div class="caption">
  <p style="text-align: center;"><b><font size="+3">Vipul Bhatt </font></b> <br>Professor of Economics<br>
@@ -282,6 +254,9 @@ Some of my recent work has focused on  dynamics of durable goods spending in the
   <li>PhD in Economics, The Ohio State University</li>
   <li>M.A. in Economics, Delhi School of Economics</li>
   <li>B.A. in Economics, Delhi University</li>
+   <li>Labor Economics</li>
+   <br>
+   <br>
 </ul>
 </div>
 
