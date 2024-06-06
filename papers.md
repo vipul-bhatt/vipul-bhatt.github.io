@@ -6,6 +6,9 @@ use-site-title: true
 
 <style>
 
+.content {width: 940px }
+
+
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen 
 and (min-device-width : 320px) 
@@ -14,6 +17,90 @@ and (max-device-width : 480px) {
 
 .content {width :300px;  !important;}
 
+}
+
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 20px;
+}
+
+
+
+
+.left {
+  width: 32%;
+}
+
+.right {
+  width: 68%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+.circular--square { border-radius: 50%; }
+
+
+  container */
+.responsive-two-column-grid {
+    display:block;
+}
+
+/* columns */
+.responsive-two-column-grid > * {
+    padding:1rem;
+}
+
+/* tablet breakpoint */
+@media (min-width:768px) {
+    .responsive-two-column-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+
+
+.first-column {
+    width: 44%;
+    padding:5px;
+    float: left;
+}
+
+.second-column {
+    width: 56%;
+    padding: 5px;
+    float: right;
+}
+
+@media only screen and (max-width: 800px) {
+
+   .first-column {
+        width: 100%;
+        padding-bottom: 10px;
+        float: none;
+    }
+
+    .second-column {
+        width: 100%;
+        padding-bottom: 10px;
+        float: none;
+    }
+    
 }
 
 .show-text {
