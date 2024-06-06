@@ -1,9 +1,10 @@
----
+﻿---
 layout: page
 title:
 use-site-title: false
 ---
-<head>
+
+<head> <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
 </head>
 
 <style>
@@ -25,21 +26,21 @@ div.content {
 
 }
 
-
 @media(min-width:768px){
         div {
             width:100%;
         }
     }
 	
-/* For screens smaller than 768px */ 
-@media (max-width: 768px) { 
-  .responsive-div { 
-    width: 100%; 
-    padding: 10px; 
-    box-sizing: border-box; 
-  } 
-}
+
+@media(max-width:768px){
+        div {
+            float:left;
+            width:30%;
+    margin-right:5px;
+        }
+    }
+
 
 /* Create two unequal columns that floats next to each other */
 .column {
