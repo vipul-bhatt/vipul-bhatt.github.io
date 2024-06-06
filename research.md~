@@ -142,6 +142,18 @@ and (max-device-width : 480px) {
   margin-left: -60px;
 }
 
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+/* Styles */
+
+.hidden-text {width :250px;  !important;}
+
+}
+
 .show-text:hover .hidden-text {
   visibility: visible;
 }

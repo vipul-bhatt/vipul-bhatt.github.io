@@ -150,7 +150,7 @@ and (min-device-width : 320px)
 and (max-device-width : 480px) {
 /* Styles */
 
-.hidden-text {width :250px;  !important;}
+.show-text .hidden-text {width :250px;  !important;}
 
 }
 
