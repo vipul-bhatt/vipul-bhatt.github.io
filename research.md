@@ -110,6 +110,18 @@ and (max-device-width : 480px) {
   width: 940px;
 }
 
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+/* Styles */
+
+.show-text {width :300px;  !important;}
+
+}
+
 .show-text .hidden-text {
   visibility: hidden;
   width: 800px;
@@ -128,6 +140,18 @@ and (max-device-width : 480px) {
   top: 70%;
   left:10%;
   margin-left: -60px;
+}
+
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+/* Styles */
+
+.hidden-text {width :250px;  !important;}
+
 }
 
 .show-text:hover .hidden-text {
