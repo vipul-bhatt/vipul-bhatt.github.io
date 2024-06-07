@@ -19,11 +19,24 @@ and (max-device-width : 480px) {
 
 }
 
+
+/* ipad (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+/* Styles */
+
+.content {width :700px;  !important;}
+
+}
+
+
 /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
   padding: 20px;
 }
+
 
 
 
