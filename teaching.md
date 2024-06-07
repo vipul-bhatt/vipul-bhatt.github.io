@@ -51,7 +51,7 @@ and (max-device-width : 480px) {
 
  <h2>Courses Taught</h2>
 
-<p  style="text-align: justify; word-spacing:-2px;"> My teaching interests are in econometrics, macroeconomics, behavioral economics, economic development and household decision-making. Below is the list of all the courses that I have taught, </p> 
+<p  style="text-align: justify; word-spacing: inter-word;"> My teaching interests are in econometrics, macroeconomics, behavioral economics, economic development and household decision-making. Below is the list of all the courses that I have taught, </p> 
 
 
  <h3> At James Madison University </h3>
