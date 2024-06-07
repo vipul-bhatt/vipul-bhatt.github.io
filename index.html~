@@ -341,9 +341,9 @@ function showImg (imgIndex) {
 James Madison University<br>
 
 
-<a href="mailto:bhattvx@jmu.edu" target="_blank" class="fa fa-envelope fa-3x"" ></a>
+<a href="mailto:bhattvx@jmu.edu" target="_blank" class="fa fa-envelope" style="font-size:40px"></a>
 
-<a href="https://scholar.google.com/citations?user=GVYdGUcAAAAJ&hl=en" target="_blank" class="fa fa-graduation-cap fa-3x"></a>
+<a href="https://scholar.google.com/citations?user=GVYdGUcAAAAJ&hl=en" target="_blank" class="fa fa-graduation-cap" style="font-size:40px"></a>
 
 <a href="https://www.linkedin.com/in/vipul-bhatt-6703702/" target="_blank" class="fa fa-linkedin-square" style="font-size:40px"></a>
 
