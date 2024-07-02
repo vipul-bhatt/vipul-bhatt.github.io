@@ -85,7 +85,7 @@ and (max-device-width : 1024px) {
 
 	 <li> Econ 332: Intermediate Macroeconomics </li>
 
-	  <li>  Econ 328: Behavioral Economic </li>
+	  <li>  Econ 328: Behavioral Economics </li>
 
 	   <li>  Econ 306: Economics of Women and the Family</li>
 
@@ -105,7 +105,7 @@ and (max-device-width : 1024px) {
   <h3> At The Ohio State University </h3>
  <ul style="padding-left: 0"> <b>Undergraduate Courses </b> </ul>
 <ul style="margin-top:-20px">
-    <li> Econ 520 : Money & Bankin (Instructor) </li>
+    <li> Econ 520 : Money & Banking (Instructor) </li>
   <li> Econ 502.01: Intermediate Macroeconomics (Instructor) </li>
   <li> Econ 444: Elementary Econometrics (Instructor) </li>
   <li> Econ 200: Principles of Microeconomics (Instructor) </li>
