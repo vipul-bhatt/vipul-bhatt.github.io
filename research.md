@@ -184,7 +184,7 @@ and (max-device-width : 480px) {
 </div>
 
 <div class="show-text">	
-  <p>Overconfidence and Performance: Experimental Evidence from a Simple Real-Effort Task (with Angela Smith) , under review</p>
+  <p>Overconfidence and Performance: Experimental Evidence from a Simple Real-Effort Task (with Angela Smith) , revise and resubmit, Journal of Behavioral and Experimental Economics.</p>
   <span class="hidden-text"> <span style="background-color:lightgrey"><b> Abstract</b> </span> <br> Using a simple real-effort counting task and frequency-based forecast
 elicitation, we document significant absolute and relative overconfidence
 for a diverse subject pool. Consistent with the Dunning-Kruger effect,
