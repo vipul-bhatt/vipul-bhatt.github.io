@@ -19,6 +19,16 @@ and (max-device-width : 480px) {
 
 }
 
+/* ipad (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+/* Styles */
+
+.content {width :700px;  !important;}
+
+}
+
 
 /* Create two unequal columns that floats next to each other */
 .column {
@@ -163,7 +173,7 @@ and (max-device-width : 480px) {
 <div class="content">
  <h2>Current Research</h2>
  
-<div class="show-text">  <p>(In)Stability of the Relationship between Relative Expenditure and Prices of Durable and Non-durable Goods (with N. Kundan Kishor), revise and resubmit, Journal of Money, Credit, and Banking</p>
+<div class="show-text">  <p>(In)Stability of the Relationship between Relative Expenditure and Prices of Durable and Non-durable Goods (with N. Kundan Kishor), accepted, Journal of Money, Credit, and Banking</p>
 <span class="hidden-text"> <span style="background-color:lightgrey"><b> Abstract</b> </span> <br> Using an intertertemporal consumption model with non-separable preferences for nondurable and durable goods,
   we find evidence for a break in the intratemporal elas- ticity of substitution, the parameter capturing the long run equilibrium relationship between the two goods and their relative prices. During the
   period from 1959 to 1981, nondurable and durable goods were gross substitutes, with an estimated substitution elasticity greater than one. In contrast, in the post-1981 period this elasticity is less
