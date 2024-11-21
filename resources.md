@@ -91,20 +91,6 @@ and (max-device-width : 1024px) {
 <div class="content">
 
 
- <h2>Virtual Econometrics Lab at JMU</h2>
-
-<p  style="text-align: justify; word-spacing: inter-word;"> Economics department at JMU offers an excellent resource for students interested in empirical economic analysis. The <a href="https://sites.lib.jmu.edu/econometricslab"> Virtual Economterics Lab </a>provides a comprehensive list of data sources, tutorials for statistical softwares, refresher material for mathematics and statistics, and a repository of freely available online courses in related areas.
-
- </p>
-
-					 <div style="position:relative;">
-  <a href="https://sites.lib.jmu.edu/econometricslab" target="_blank">
-    <div style="position:absolute;  z-index:500;height:645px;width:100%;"></div>
-    <iframe  id="forecast_embed" type="text/html" frameborder="0" height="645" width="100%" src="https://sites.lib.jmu.edu/econometricslab"></iframe>
-  </a>
-</div>
-
- <br> <br>
  
 
   	  <h2> Economic Data Sources </h2>
