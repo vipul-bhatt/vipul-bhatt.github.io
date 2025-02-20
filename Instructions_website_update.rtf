@@ -1,7 +1,9 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2761
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\csgray\c0;}
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 .SFNSMono-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red83\green92\blue101;\red244\green244\blue244;
+\red11\green12\blue12;\red229\green229\blue229;\red21\green21\blue21;}
+{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c40000\c43529\c47059;\cssrgb\c96471\c96471\c96471;
+\cssrgb\c4706\c5098\c5490;\cssrgb\c91765\c91765\c91765;\cssrgb\c10980\c10980\c10980;}
 \margl1440\margr1440\vieww11520\viewh8400\viewkind0
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
@@ -19,13 +21,10 @@ B) Commands to build and push the website to GitHub\
 \
 ** build the site\
 \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 jekyll build\
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 \
 ** give address of site directory\
 \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 cd ~/Dropbox/website \
 \
 ** add to GitHub\
@@ -37,5 +36,35 @@ git commit -am 'Yeah. Built from subdir'\
 git push\
 \
 \
-NOte: may have to update Gihub credentials and issue new token using R code in Ebooks folder\
+NOte: 1) may have to update Gihub credentials and issue new token using R code in Ebooks folder\
+\
+2) If Jekyll command does not work, may have to update ruby. \
+Enter these commands in terminal\
+\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs26 \cf3 \cb4 \expnd0\expndtw0\kerning0
+\CocoaLigature1 # 1. Install rbenv and set it up:\cf5 \
+brew install rbenv ruby-build\
+rbenv init\
+\cf3 # - Follow the printed instructions to add rbenv to your PATH etc.\cf5 \
+\cf3 # - Close your terminal window and open a new one so your changes take effect.\cf5 \
+\
+\cf3 # 2. Use rbenv to install the ruby version that you want\cf5 \
+rbenv install 3.4.1\
+\
+\cf3 # 3. Set which ruby version you want to use. Two options:\cf5 \
+rbenv global 3.4.1  \cf3 # set the default Ruby version for this machine (simpler)\cf5 \
+Restart terminal and see version\
+\cf3 # 4. Verify that you're using the correct ruby version.\cf5 \
+ruby -v\
+\
+If this does not work try these three commands..last one allows\
+To see actual version./\
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs30 \cf6 \cb7 \outl0\strokewidth0 \strokec6 echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc\
+echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc\
+echo "chruby ruby-3.4.1" >> ~/.zshrc # run 'chruby' to see actual version
+\f1\fs26 \cf5 \cb4 \outl0\strokewidth0 \
 }
