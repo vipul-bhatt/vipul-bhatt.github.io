@@ -172,32 +172,7 @@ and (max-device-width : 480px) {
 </style>
 <div class="content">
  <h2>Current Research</h2>
- 
-<div class="show-text">  <p>(In)Stability of the Relationship between Relative Expenditure and Prices of Durable and Non-durable Goods (with N. Kundan Kishor), forthcoming, Journal of Money, Credit, and Banking</p>
-<span class="hidden-text"> <span style="background-color:lightgrey"><b> Abstract</b> </span> <br> Using an intertertemporal consumption model with non-separable preferences for nondurable and durable goods,
-  we find evidence for a break in the intratemporal elas- ticity of substitution, the parameter capturing the long run equilibrium relationship between the two goods and their relative prices. During the
-  period from 1959 to 1981, nondurable and durable goods were gross substitutes, with an estimated substitution elasticity greater than one. In contrast, in the post-1981 period this elasticity is less
-  than one implying complementarity in the consumption of these two goods. This shift in the long run equilibrium relationship between the two goods also impacts adjustment dynamics. Although durable goods continue
-  to dominate the error correction process, the size of adjustment is much smaller in the post-1981 period. Additionally, we find that the cyclical component of the durable goods consumption has also become more
-  persistent over time. Our findings imply that a shock to durable goods spending, such as the COVID19 shock, would
-  be more persistent due to a much slower adjustment towards equilibrium.</span>
-</div>
 
-<div class="show-text">	
-  <p>Overconfidence and Performance: Experimental Evidence from a Simple Real-Effort Task (with Angela Smith) , revise and resubmit, Journal of Behavioral and Experimental Economics</p>
-  <span class="hidden-text"> <span style="background-color:lightgrey"><b> Abstract</b> </span> <br> Using a simple real-effort counting task and frequency-based forecast
-elicitation, we document significant absolute and relative overconfidence
-for a diverse subject pool. Consistent with the Dunning-Kruger effect,
-an inverse relationship exists between task performance and overconfidence
-such that low (high) performing individuals exhibit significantly
-more (less) overconfidence. This relationship holds for absolute overconfidence
-even after accounting for better-than-average effect and regression-to-the
-mean and can potentially explain the lack of absolute overconfidence
-reported in some economic studies. Further, we find negligible correlation
-between our task-based measures and survey-based overconfidence measures
-commonly used in psychology studies, indicating these two methodologies
-may capture different behavioral phenomena. </span>
-  </div>
 
 <div class="show-text">	
   <p>  Should I Stay or Should I Go? An Equilibrium Search Model of Education, Labor Supply, and Living Arrangement Choices (with Min Qiang Zhao)</p>

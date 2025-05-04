@@ -155,6 +155,11 @@ and (max-device-width : 1024px) {
 
  <h3 style="color: grey;"> Journal Articles </h3>
  
+  <p> Overconfidence and performance: Evidence from a Simple Real-effort Task (with Angela Smith), Journal of Behavioral and Experimental Economics, February 2025, Volume 114.</p>
+ 
+  <p> (In)Stability of the Relationship between Relative Expenditure and Prices of Durable and Non-durable Goods (with N. Kundan Kishor), Journal of Money, Credit, and Banking, October 2024.</p>
+ 
+
  <p> Government Policy and Land Price Dynamics: A Quantitative Assessment of China's Factor Market Reforms (with Mouhua Liao and Min Qiang Zhao)-Regional Science and Urban Economics, January 2023, Volume 98.</p>
  
   <p> Role of credit and expectations in house price dynamics (with N. Kundan Kishor)- Finance Research Letters, December 2022, Volume 50. </p>
